@@ -1,4 +1,3 @@
-"""
 # Intrusion Detection using Multi-Classification Techniques on Kyoto_2015_May_day14 Dataset
 
 This repository contains the complete source code and preprocessing techniques used for evaluating multiple machine learning classifiers on the **Kyoto_2015_May_day14 Dataset**.
@@ -110,4 +109,3 @@ Kyoto University for providing the Kyoto Dataset.
 
 Libraries: Scikit-learn, XGBoost, LightGBM, Matplotlib, and others for development support.
 
-"""

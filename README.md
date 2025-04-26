@@ -1,6 +1,4 @@
-# Saving the corrected and updated README content into a file for download
-
-corrected_readme_content = """
+"""
 # Intrusion Detection using Multi-Classification Techniques on Kyoto_2015_May_day14 Dataset
 
 This repository contains the complete source code and preprocessing techniques used for evaluating multiple machine learning classifiers on the **Kyoto_2015_May_day14 Dataset**.
